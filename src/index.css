@@ -1,9 +1,5 @@
 body{
   background-color: rgb(219, 166, 166);
   margin: 0;
-}
-
-.container{
-  background-color: red;
-
+  font-family: "Poppins", sans-serif;
 }

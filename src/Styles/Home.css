@@ -12,6 +12,7 @@
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     margin-top: 70px;
+    border: 2px solid black;
 }
 
 .textos-home{
@@ -31,6 +32,7 @@
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     margin-top: 60px;
+    border: 2px solid black;
 }
 
 .textoAlunos{
@@ -47,6 +49,7 @@
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     margin-top: 60px;
+    border: 2px solid black;
 }
 
 .textoTurmas{
@@ -64,6 +67,7 @@
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     margin-top: 60px;
+    border: 2px solid black;
 }
 
 .textoCursos{
@@ -91,3 +95,6 @@
     height: 90px;
 }
 
+.textos{
+    color: black;
+}

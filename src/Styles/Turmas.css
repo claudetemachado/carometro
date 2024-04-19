@@ -1,0 +1,83 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+.turmas{
+    margin-top: 50px;
+    margin-right: 100px;
+    display: flex;
+    flex-wrap: wrap; /* Permite que os quadrados sejam divididos em linhas */
+    justify-content:center /* Espaçamento em volta dos quadrados */
+}
+
+
+.turmasIdev{
+    background-color: red;
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-top: 60px;
+    border: 2px solid black;
+}
+
+.textoIdev{
+    margin-left: 120px;
+    margin-top: 10px;
+    color: black;
+}
+
+
+.turmasIeleImec{
+    background-color: red;
+    display: flex;
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin-top: 60px;
+    border: 2px solid black;
+}
+
+.textoIeleImec{
+    margin-left: 110px;
+    margin-top: 10px;
+    color: black;
+}
+
+.idev2foto{
+    display: flex;
+    margin-left: 2px;
+    margin-top: 17px;
+    height: 110px;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.perfilIdev{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    width: 200px;
+    height: 150px;
+    margin-left: -70px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-top: 5px;
+}
+
+.perfilIeleImec{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    width: 200px;
+    height: 150px;
+    margin-left: -60px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-top: 5px;
+}

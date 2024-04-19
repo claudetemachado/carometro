@@ -13,7 +13,7 @@ function Home(){
 
         <div className="quadroAlunos">
           <div className="textoAlunos">
-            <Link to="/alunos"> Alunos
+            <Link to="/alunos" className="textos"> Alunos
               <img src="https://cdn-icons-png.flaticon.com/512/7941/7941558.png" alt="" className="alunosIcone" />
             </Link>
            
@@ -22,14 +22,14 @@ function Home(){
 
           <div className="quadroTurmas">
             <div className="textoTurmas">
-              <Link to="/turmas">Turmas
+              <Link to="/turmas" className="textos">Turmas
                 <img src="https://cdn-icons-png.flaticon.com/512/50/50001.png" alt="" className="turmasIcone" />
               </Link>
             </div>
           </div>
             <div className="quadroCursos">
               <div className="textoCursos">
-                <Link to="/cursos">Cursos
+                <Link to="/cursos" className="textos">Cursos
                   <img src="./iconeCursos.png" alt="" className="cursosIcone" />
                 </Link>
               </div>

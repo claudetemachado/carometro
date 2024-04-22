@@ -3,7 +3,7 @@ function Alunos(){
     return(
         <div>
            
-            <h1>Página de alunos</h1>
+            <h1>testes</h1>
         </div>
     )
 }

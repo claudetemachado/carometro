@@ -14,11 +14,7 @@ function Turmas(){
                 </div>
 
                 <div className="turmasIdev">
-                    <Link to="/idev2" className="textoIdev">IDEV 2
-                        <div className="perfilIdev">
-                            <img src="./idev2foto.png" alt="" className="fotoperfil" />
-                        </div>
-                    </Link>
+                    <Link to="/idev2" className="textoIdev">IDEV 2                </Link>
                 </div>
 
                 <div className="turmasIdev">
@@ -41,7 +37,6 @@ function Turmas(){
                     <div className="turmasIeleImec">
                         <Link to="/ieleimec2" className="textoIeleImec">IELE/IMEC 2
                             <div className="perfilIeleImec">
-                                <img src="./ieleimecfoto.png" alt="" />
                             </div>
                         </Link>
                     </div>

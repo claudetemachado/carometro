@@ -1,4 +1,7 @@
-.cards{
+.titulo{
+    display: flex;
+    justify-content: center;
+}.cards{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -26,11 +29,11 @@
     margin-top: 12px;
 }
 
-.devtec h1{
+.ieleimectec h1{
     font-size: 30px;
 }
 
-.devtec{
+.ieleimectec{
     margin-left: 10px;
     margin-top: 10px;
 }

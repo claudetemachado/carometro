@@ -1,0 +1,38 @@
+
+.fundoconsultas{
+    display: flex;
+    justify-content: center;
+    background-color: #bb0b0ba5;
+    width: 900px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.fundo{ /*posiciona o fundoconsultas*/
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.consultas{  /*posiciona a img e os textos um ao lado do outro */
+    display: flex;
+    align-items:center;
+    gap: 40px;
+    margin-right: 200px;
+}
+
+.consultas img{ /*posiciona a img */
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+.consultas p{
+    font-size: 15px;
+    font-weight: bold;
+}

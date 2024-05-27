@@ -9,6 +9,7 @@ import Idev3 from './Pages/Idev3/Idev3'
 import Ieleimec1 from './Pages/Ieleimec1/Ieleimec1'
 import Ieleimec2 from './Pages/Ieleimec2/Ieleimec2'
 import Ieleimec3 from './Pages/Ieleimec3/Ieleimec3'
+import Consultas from './Pages/Consultas/Consultas'
 function App() {
   return (
     <div>
@@ -23,6 +24,7 @@ function App() {
           <Route path='/ieleimec1' element={<Ieleimec1/>}/>
           <Route path='/ieleimec2' element={<Ieleimec2/>}/>
           <Route path='/ieleimec3' element={<Ieleimec3/>}/>
+          <Route path='/consultas' element={<Consultas />}/>
         </Routes>
       </BrowserRouter>
     </div>

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 function Home(){
     return(
       <>
-        <div className="containerfundo">
+        <div className="imagemfundo">
           <div className="container">
             <div className="textos-home">
               <h1>Olá</h1>

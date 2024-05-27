@@ -1,4 +1,4 @@
-import NavBar from "./Header/NavBar"
+import NavBar from "../Header/NavBar"
 import { Link } from "react-router-dom"
 function Turmas(){
     return(

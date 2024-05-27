@@ -1,17 +1,25 @@
-import NavBar from "../Components/NavBar"
-function Idev3(){
+import NavBar from "../Header/NavBar"
+function Ieleimec1(){
     return(
         <>
-         <div className="devtec">
-           <h1>Técnico em desenvolvimento de sistemas integrado ao ensino médio</h1>
-            <p>Turma 2024</p>
+         <div className="ieleimectec">
+           <h1>Técnico em eletroeletrônica e mecânica integrado ao ensino médio</h1>
+            <p>Turma 2022</p>
         </div>
        
         <div className="cards">
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
+                Consultas
+                </p>  
+            </div>
+
+            <div className="card">
+                <img src="./perfil.png" width="70px" alt="" />
+                <p className="nome"> Claudete Carmo Machado
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -20,7 +28,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -29,7 +37,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -38,7 +46,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -47,7 +55,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -56,7 +64,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -65,16 +73,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
-                Curso:Desenvolvimento de sistemas <br />
-                Consultas
-                </p>  
-            </div>
-
-            <div className="card">
-                <img src="./perfil.png" width="70px" alt="" />
-                <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -83,7 +82,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Alexandre
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -92,7 +91,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Camilly
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -101,7 +100,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -109,16 +108,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
-                Curso:Desenvolvimento de sistemas <br />
-                Consultas
-                </p>  
-            </div>
-
-            <div className="card">
-                <img src="./perfil.png" width="70px" alt="" />
-                <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -127,7 +117,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -136,7 +126,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -145,7 +135,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -154,7 +144,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -163,7 +153,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -172,7 +162,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -181,7 +171,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -190,7 +180,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -199,7 +189,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -208,7 +198,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -217,7 +207,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -226,7 +216,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -235,7 +225,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -244,7 +234,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -253,7 +243,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -262,7 +252,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -271,7 +261,7 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -280,7 +270,16 @@ function Idev3(){
             <div className="card">
                 <img src="./perfil.png" width="70px" alt="" />
                 <p className="nome"> Claudete Carmo Machado
-                Turma:Idev 3 <br /> 
+                Turma:Iele/Imec 1 <br /> 
+                Curso:Desenvolvimento de sistemas <br />
+                Consultas
+                </p>  
+            </div>
+
+            <div className="card">
+                <img src="./perfil.png" width="70px" alt="" />
+                <p className="nome"> Claudete Carmo Machado
+                Turma:Iele/Imec 1 <br /> 
                 Curso:Desenvolvimento de sistemas <br />
                 Consultas
                 </p>  
@@ -292,4 +291,4 @@ function Idev3(){
     )
       
 }
-export default Idev3
+export default Ieleimec1

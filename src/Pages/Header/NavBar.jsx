@@ -5,7 +5,7 @@ function NavBar(){
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" alt="logo senai" className="logoSenai" />
             <div className="rotas">
                 <a href="/home" className='rotas'>Home</a>&nbsp;&nbsp;&nbsp;
-                <a href="/alunos" className='rotas'>Alunos</a>&nbsp;&nbsp;
+                <a href="/turmas" className='rotas'>Turmas</a>&nbsp;&nbsp;
             </div>
         </div>
     )

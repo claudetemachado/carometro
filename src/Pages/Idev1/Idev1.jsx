@@ -1,4 +1,4 @@
-import NavBar from "../Components/NavBar"
+import NavBar from "../Header/NavBar"
 function Idev1(){
     return(
         <>

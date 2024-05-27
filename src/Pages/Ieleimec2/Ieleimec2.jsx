@@ -1,8 +1,8 @@
-import NavBar from "../Components/NavBar"
-function Ieleimec3(){
+import NavBar from "../Header/NavBar"
+function Ieleimec2(){
     return(
         <>
-         <div className="ieleimectec">
+         <div className="devtec">
            <h1>Técnico em desenvolvimento de sistemas integrado ao ensino médio</h1>
             <p>Turma 2024</p>
         </div>
@@ -292,4 +292,4 @@ function Ieleimec3(){
     )
       
 }
-export default Ieleimec3
+export default Ieleimec2

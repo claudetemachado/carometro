@@ -1,0 +1,33 @@
+:link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.containerfundo{
+    background-image: url(https://i.ytimg.com/vi/I6o-7ZMDncU/maxresdefault.jpg);
+    width: 1472px;
+    height: 710px;
+    background-size: cover;
+    display: flex;
+}
+.container{
+    background-color: #bb0b0ba5;
+    width: 650px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    margin-top: 170px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.textos-home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}

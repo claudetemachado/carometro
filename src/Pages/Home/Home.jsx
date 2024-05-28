@@ -6,8 +6,8 @@ function Home(){
         <div className="imagemfundo">
           <div className="container">
             <div className="textos-home">
-              <h1>Olá</h1>
-              <p>Bem-Vindo ao carômetro</p>
+              <h1>Bem - Vindo</h1>
+              <p>ao carômetro do senai</p>
             </div>
           </div>
         </div>

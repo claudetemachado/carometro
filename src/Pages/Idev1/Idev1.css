@@ -1,39 +1,50 @@
-.titulo{
-    display: flex;
-    justify-content: center;
-}.cards{
+
+.cardsidev1{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
 }
 
-.card{
+.cardidev1{
     width: 258px;
-    height: 250px;
+    height: 170px;
     margin-left: 20px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     display: flex;
-    
+    background-color: #bb0b0b56;
+   
 }
 
-.card p{
-    margin-left: 10px;
-    margin-top: 25px;
-    font-size: 13px;
-}
 
-.card img{
-    display: flex;
-    margin-left: 90px;
-    margin-top: 12px;
-}
-
-.devtec h1{
+.tituloidev1 h1{
     font-size: 25px;
 }
 
-.devtec{
+.tituloidev1{
     margin-left: 10px;
     margin-top: 10px;
+}
+
+.imgidev1{
+    display: flex;
+    margin-left: 18px;
+    margin-top: 20px;
+}
+
+.nomeidev1{
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 25px;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+}
+
+.infosidev1{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 13px;
+    display: flex; 
+    flex-direction: column;
 }

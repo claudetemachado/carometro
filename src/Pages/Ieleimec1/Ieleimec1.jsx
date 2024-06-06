@@ -2,7 +2,8 @@ import NavBar from "../Header/NavBar"
 function IeleImec1(){
     return(
         <>
-         <div className="tituloileimec1">
+        <NavBar/>
+         <div className="tituloieleimec1">
             <h1>Técnico em Eletro eletrônica e mecânica integrado ao ensino médio</h1>
             <p>Turma 2022</p>
          </div>
@@ -12,25 +13,24 @@ function IeleImec1(){
                 <img src="https://cdn-icons-png.flaticon.com/512/3106/3106921.png" width="70px" height={120} className="imgieleimec1" />
               <div>
                     <p className="nomeieleimec1"> Aluno 1 </p>  
-                    <p className="infosieleimec1">
-                        Turma:Iele/Imec 1 <br />
-                        Consultas
+                    <p className="infosieleimec1">Turma:Iele/Imec 1 <br />
+                    Consultas
                     </p>
               </div>
             </div>
 
 
-            <div className="cardsieleimec1">
+            <div className="cardieleimec1">
                 <img src="https://cdn-icons-png.flaticon.com/512/3106/3106921.png" width="70px" height={120} className="imgieleimec1"/>
                 <div>
                     <p className="nomeieleimec1"> Aluno 2 </p>
-                    <p className="infoseleimec1">Turma:Iele/Imec 1 <br /> 
+                    <p className="infosieleimec1">Turma:Iele/Imec 1 <br /> 
                     Consultas
                     </p>  
                 </div>
             </div>
 
-            <div className="cardsieleimec1">
+            <div className="cardieleimec1">
                 <img src="https://cdn-icons-png.flaticon.com/512/3106/3106921.png" width="70px" height={120} className="imgieleimec1" />
                 <div>
                     <p className="nomeieleimec1"> Aluno 3 </p>

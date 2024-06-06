@@ -2,6 +2,8 @@ import NavBar from "../Header/NavBar"
 import { Link } from "react-router-dom"
 function Turmas(){
     return(
+        <>
+        <NavBar/>
         <div className="">
             <h1 className="titulo">Turmas</h1>
             <div className="turmas">
@@ -52,6 +54,7 @@ function Turmas(){
             </div>
            
         </div>
+     </>
     )
 }
 export default Turmas

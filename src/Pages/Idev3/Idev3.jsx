@@ -2,9 +2,10 @@ import NavBar from "../Header/NavBar"
 function Idev3(){
     return(
         <>
+        <NavBar/>
          <div className="tituloidev3">
             <h1>Técnico em desenvolvimento de sistemas integrado ao ensino médio</h1>
-            <p>Turma 2023</p>
+            <p>Turma 2024</p>
          </div>
        
         <div className="cardsidev3">
@@ -50,7 +51,7 @@ function Idev3(){
                 </div>
             </div>
 
-            <div className="cardide3">
+            <div className="cardidev3">
                 <img src="https://cdn-icons-png.flaticon.com/512/3106/3106921.png" width="70px" height={120} className="imgidev3"/>
                 <div>
                     <p className="nomeidev3"> Aluno 5 </p>
@@ -272,7 +273,7 @@ function Idev3(){
                 <img src="https://cdn-icons-png.flaticon.com/512/3106/3106921.png" width="70px" height={120} className="imgidev2"/>
                 <div>
                 <p className="nomeidev3"> Aluno 27 </p>
-                <p className="infosidev">Turma:Idev 3 <br /> 
+                <p className="infosidev3">Turma:Idev 3 <br /> 
                 Consultas
                 </p>
                 </div>

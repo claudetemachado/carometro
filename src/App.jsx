@@ -1,6 +1,8 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import NavBar from './Pages/Header/NavBar'
+import Login from './Pages/Login/Login'
+import Cadastro from './Pages/Cadastro/Cadastro'
 import Home from './Pages/Home/Home'
 import Turmas from './Pages/Turmas/Turmas'
 import Idev1 from './Pages/Idev1/Idev1'
@@ -13,9 +15,10 @@ import Consultas from './Pages/Consultas/Consultas'
 function App() {
   return (
     <div>
-      <NavBar/>
       <BrowserRouter>
         <Routes>
+          <Route path='/login' element={<Login/>}/>
+          <Route path='/cadastro' element={<Cadastro/>}/>
           <Route path='/home' element={<Home/>}/>
           <Route path='/turmas' element={<Turmas/>}/>
           <Route path='/idev1' element={<Idev1/>}/>

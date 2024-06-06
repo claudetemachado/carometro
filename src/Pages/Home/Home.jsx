@@ -3,6 +3,7 @@ import { Link } from "react-router-dom"
 function Home(){
     return(
       <>
+        <NavBar/>
         <div className="imagemfundo">
           <div className="container">
             <div className="textos-home">

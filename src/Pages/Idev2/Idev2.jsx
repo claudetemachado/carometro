@@ -2,6 +2,7 @@ import NavBar from "../Header/NavBar"
 function Idev2(){
     return(
         <>
+        <NavBar/>
          <div className="tituloidev2">
             <h1>Técnico em desenvolvimento de sistemas integrado ao ensino médio</h1>
             <p>Turma 2023</p>

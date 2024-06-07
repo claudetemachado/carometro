@@ -48,3 +48,13 @@
     display: flex; 
     flex-direction: column;
 }
+
+.botaoconsultas{
+    border-radius: 10px;
+    width: 90px;
+    height: 25px;
+    color: white;
+    background-color: #bb0b0b;
+    border: none;
+    font-size: 12px;
+}

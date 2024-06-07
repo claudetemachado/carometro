@@ -60,11 +60,12 @@ function Cadastro() {
                         <label htmlFor="confirmarsenha">Confirmar senha 
                             <input type="password" />
                         </label>
-                        <Link to="/login" className="possuocadastro">Já possuo cadastro</Link>
 
+                        <Link to="/login" className="possuocadastro">Já possuo cadastro</Link>
                         <Link to="/home">
                             <button type="button" className="botaocadastrar">Cadastrar</button>
                         </Link>
+
                     </div>
                 </div>
             </div>

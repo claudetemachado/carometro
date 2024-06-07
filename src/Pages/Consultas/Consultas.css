@@ -2,7 +2,7 @@
 .fundoconsultas{
     display: flex;
     justify-content: center;
-    background-color: #bb0b0ba5;
+    background-color: #bb0b0b6f;
     width: 900px;
     height: 500px;
     border-radius: 20px;
@@ -20,19 +20,29 @@
     display: flex;
     align-items:center;
     gap: 40px;
-    margin-right: 200px;
+    margin-right: 100px;
 }
 
-.consultas img{ /*posiciona a img */
-    width: 300px;
-    height: 300px;
+.informacoeslabels{
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+}
+
+.imgconsultas{
+    width: 250px;
+    height: 250px;
+    background-color: #bb0b0b6f ;
     border-radius: 10px;
     display: flex;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
-
 }
 
-.consultas p{
-    font-size: 15px;
-    font-weight: bold;
+.informacoeslabels label{
+    background-color: #bb0b0b6f;
+    border-radius: 10px;
+    width: 300px;
+    margin-bottom: 7px; /* Adiciona espaçamento entre os labels */
+    padding: 5px;
+    font-size: 12px;
 }

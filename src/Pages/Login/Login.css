@@ -15,7 +15,7 @@
 }
 
 .fundologin{
-    background-color: #bb0b0b89;
+    background-color: #bb0b0b6f;
     border-radius: 15px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
@@ -25,42 +25,42 @@
     width: 400px;
     height: 35px;
     border-radius: 10px;
-    background-color: #f4d6c839;
+    background-color: white;
     display: flex;
+     border: none;
 }
 
 .labelemail,
 .labelsenha{
-    color: white;
+    color: black;
+    font-weight: bold;
 }
 
 .botaoentrar{
     border-radius: 10px;
     width: 200px;
     height: 35px;
-    background-color: #f4d6c839;
     margin-top: 15px;
     color: white;
+    background-color: #007bff;
+    border: none;
 }
 
 .titulologin{
     font-size: 20px; 
     font-weight: bold;
-    color: white;
+    color: black;
     font-family: "DM Sans", sans-serif;
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
 }
 
 .linkcadastro{
     font-size: 11px;
-    color: white;
+    color: black;
 }
 
-.imglogin{
-    background-image: url('https://www.giromarilia.com.br/plugins/kcfinder/upload/images/2023/04/senai%20pompeia%2003.jpg');
-    background-size:cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 742px;
-    width: 1488px;
-    padding: 20px;
+.senailogologin{
+    width: 170px;
+    margin-top: 25px;
+    margin-bottom: 10px;
 }

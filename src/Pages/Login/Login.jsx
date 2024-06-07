@@ -2,10 +2,11 @@ import { Link } from "react-router-dom";
 function Login() {
     return(
         <>
-           <div className="imglogin">
+           <div>
                 <div className="logincontainer"> 
                     <div className="fundologin">
                             <div className="inputs">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" alt="logo senai" className="senailogologin" />
                                 <p className="titulologin">Faça login no carômetro</p>
                                 <label htmlFor="" className="labelemail">Email
                                 <input type="text" className="email"/> 

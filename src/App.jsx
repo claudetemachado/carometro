@@ -12,11 +12,13 @@ import Ieleimec1 from './Pages/Ieleimec1/Ieleimec1'
 import Ieleimec2 from './Pages/Ieleimec2/Ieleimec2'
 import Ieleimec3 from './Pages/Ieleimec3/Ieleimec3'
 import Consultas from './Pages/Consultas/Consultas'
+import PagEntrada from './Pages/PaginaEntrada/PaginaEntrada'
 function App() {
   return (
     <div>
       <BrowserRouter>
         <Routes>
+          <Route path='/' element={<PagEntrada/>}/>
           <Route path='/login' element={<Login/>}/>
           <Route path='/cadastro' element={<Cadastro/>}/>
           <Route path='/home' element={<Home/>}/>

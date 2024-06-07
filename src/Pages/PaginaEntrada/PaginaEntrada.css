@@ -1,0 +1,49 @@
+.containerinicial{
+    background-color: #bb0b0b6f;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fundoentrada{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+}
+
+.botaologin,
+.botaocadastro{
+    border-radius: 10px;
+    width: 150px;
+    height: 35px;
+    margin-top: 15px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+}
+
+.botoesentrada{
+    display: flex;
+    gap: 20px; /* Espaçamento entre os botões */
+}
+
+.senaientrada{
+    width: 145px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    margin-left: 90px;
+}
+
+.tituloentrada{
+    font-size: 18px; 
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: black;
+    font-family: "DM Sans", sans-serif;
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
